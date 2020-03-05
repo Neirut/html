@@ -1,0 +1,259 @@
+<table border="1" bordercolor="black" cellpadding="5" width="100%">
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">1</td>
+        <td colspan="2" bgcolor="##60bb46" width="99%" align="center"><strong>Стиль и манера общения</strong></td>
+    </tr>
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">2</td>
+        <td bgcolor="#9fd690" width="55%" align="center"><strong>Правильно</strong></td>
+        <td bgcolor="#9fd690" width="44%" align="center"><strong>Неправильно</strong></td>
+    </tr> 
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">3</td>
+        <td width="55%" align="center">Говорить нужно умеренным темпом, но при необходимости – подстройка под скорость речи абонента.</td>
+        <td width="44%" align="center">Придерживаться слишком быстрого или слишком медленного темпа разговора без надобности для абонента или в начале разговора придерживаются умеренного темпа речи, а под конец – говорить очень быстро без необходимости, прерывая звонящего.</td>
+    </tr> 
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">4</td>
+        <td width="55%" align="center">Тон общения ровный, доброжелательный в течение всего разговора, речь оператора эмоционально окрашена.</td>
+        <td width="44%" align="center">Монотонная речь оператора, оператор демонстрирует признаки раздражения, повышает голос. </td>
+    </tr> 
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">5</td>
+        <td width="55%" align="center">В разговоре оператора должны быть общепринятые слова вежливости: "спасибо", "пожалуйста", "будьте добры" и т.д.</td>
+        <td width="44%" align="center">Отсутствие слов вежливости. Обрезанные фразы: "Адрес", "ФИО" - без ничего, одним словом.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">6</td>
+        <td width="55%" align="center">Речь оператора должна быть грамотной, стиль общения - деловой. </td>
+        <td width="44%" align="center">Использование разговорного стиля общения.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">7</td>
+        <td width="55%" align="center">Формулируйте вопросы просто и четко. Информация должна доноситься в понятной абоненту форме.</td>
+        <td width="44%" align="center">Использование непонятных абоненту терминов (профессиональный сленг)</td>
+    </tr>
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">8</td>
+        <td width="55%" align="center">Если необходимо повторить слова абонента - перефразируйте, то что уже было сказано.</td>
+        <td width="44%" align="center">Повторение за абонентом (проговаривание повторно того, что только что сказал абонент)</td>
+    </tr>
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">9</td>
+        <td width="55%" align="center">Обращайтесь к абоненту на «Вы», даже если это подросток или ребенок.</td>
+        <td width="44%" align="center">Обращение на "ты"</td>
+    </tr>
+    <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">10</td>
+        <td rowspan="4" width="55%" align="center">Не должно быть</td>
+        <td width="44%" align="center">Громкое дыхание (вдох/выдох до/после проговаривания длинной фразы)имеется в виду не спешить в предоставление информации;</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">11</td>
+        <td width="44%" align="center">Дружеское общение (общение с абонентом, как с товарищем);</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">12</td>
+        <td width="44%" align="center">Вставка "э-э-э" перед словами. Пример: "подскажите, э-э-э, на кого оформлен, э-э-э, договор...";</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">13</td>
+        <td width="44%" align="center">Это ваше право</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">14</td>
+        <td rowspan="7" width="55%" align="center">Не должно быть</td>
+        <td width="44%" align="center"><strong>Также запрещены:</strong></td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">15</td>
+       
+        <td width="44%" align="center"><strong>1.</strong>Слова-паразиты: "как бы", "вроде как", "типа", "ну", "так сказать", "эта" и т.п.,</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">16</td>
+       
+        <td width="44%" align="center"><strong>2.</strong> Слова с неправильным ударением</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">17</td>
+        
+        <td width="44%" align="center"><strong>3.</strong> Фразы-конфликтогены: "Уважаемый абонент", "я же вам говорю"; "я вам еще раз повторяю"; вы меня не понимаете"; "я же лучше знаю"; "мне же виднее"; "так и надо говорить" и др.</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">18</td>
+       
+        <td width="44%" align="center"><strong>4.</strong> Встречные вопросы: "Кто Вам сказал?", "А как Вы думаете?", "Да что Вы говорите?", "А что у Вас там?" и т.п.</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">19</td>
+       
+        <td width="44%" align="center"><strong>5.</strong> Выражение собственных оценок и сравнений: дорого, дешево, хорошо, плохо и др.</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">20</td>
+     
+        <td width="44%" align="center"><strong>6.</strong> Уменьшительно-ласкательные слова (трубочку, минуточку, денежку и т.д.) </td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">21</td>
+        <td width="55%" align="center">Допускается произношение "Уважаемый абонент" только в случае, когда связь с абонентом потеряна и нужно наладить связь, например абонент отошел, он долго не реагирует на ваши слова, его длительное время не слышно и т.д </td>
+        <td width="44%" align="center">Говорить "Уважаемый абонент" пытаясь поставить абонента "на место", использовать как обычное обращение к абоненту.</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">22</td>
+        <td bgcolor="#9fd690" width="55%" align="center"><strong>Допустимые фразы</strong></td>
+        <td bgcolor="#9fd690" width="44%" align="center"><strong>Недопустимые фразы</strong></td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">23</td>
+        <td width="55%" align="center">На данный момент данным вопросом занимаются, характер проблемы еще уточняется.</td>
+        <td width="44%" align="center">У нас нет информации касательно Вашей проблемы (в случае общей проблемы)</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">24</td>
+        <td rowspan="2" width="55%" align="center">Не должно быть</td>
+        <td width="44%" align="center">Вы меня конечно извините…</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">25</td>
+        
+        <td width="44%" align="center">Мы не можем (не знаем как) решить Вашу проблему</td>
+    </tr>
+ <tr>
+        <td bgcolor="#dff1da" width="1%" align="center">26</td>
+        <td width="55%" align="center">По Вашим учетным данным заявок не зафиксировано</td>
+        <td width="44%" align="center">Я не вижу от вас заявок на ремонт</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">27</td>
+        <td rowspan="2" width="55%" align="center">Информацию, которую вы предоставили не достаточно для поиска, уточните ППК/ Логин/ №Заявки
+</td>
+        <td width="44%" align="center">Я не вижу/не могу найти ваш адрес</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">28</td>
+        
+        <td width="44%" align="center">Я вас не могу найти</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">29</td>
+        <td width="55%" align="center">Недолжно быть</td>
+        <td width="44%" align="center">Я не знаю</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">30</td>
+        <td width="55%" align="center">Нет такой возможности/ Нет такой технической возможности (если это не входит в спектр возможностей и обязанностей оператора) </td>
+        <td width="44%" align="center">Я не могу</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">31</td>
+        <td width="55%" align="center">В чем заключается Ваш вопрос? (не проблема)</td>
+        <td width="44%" align="center">Что у вас случилось?</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">32</td>
+        <td width="55%" align="center">В чем наблюдаются трудности?</td>
+        <td width="44%" align="center">Что Вас не устраивает?</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">33</td>
+        <td rowspan="2" width="55%" align="center">Необходимо…</td>
+        <td width="44%" align="center">Вам придется…</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">34</td>
+        <td width="44%" align="center">Вы должны…</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">35</td>
+        <td width="55%" align="center">Если, вы понимаете, что абонент не смог понять, то что вы ему пытаетесь объяснить. В этом случае необходимо изменить формулировку. А не просто повторить тот же самый текст несколько раз. Это приведет к конфликту.</td>
+        <td width="44%" align="center">Вы меня не понимаете…</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">36</td>
+        <td width="55%" align="center">В данном случае, я рекомендую проделать следующие действия …</td>
+        <td width="44%" align="center">Я же лучше знаю</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">37</td>
+        <td width="55%" align="center">На данный момент, я наблюдаю…</td>
+        <td width="44%" align="center">Мне же виднее</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">38</td>
+        <td width="55%" align="center">В дальнейшем сообщайте «эту» информацию…</td>
+        <td width="44%" align="center">Так и надо говорить (в случае если абонент путается с формулировкой)</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">39</td>
+        <td width="55%" align="center">Используем фразу для привлечения внимания абонента -"обратите внимание"</td>
+        <td width="44%" align="center">Использовать слово "смотрите"</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">40</td>
+        <td bgcolor="#9fd690" width="55%" align="center"><strong>Работа со словом "к сожалению"</strong></td>
+        <td bgcolor="#9fd690" width="44%" align="center"><strong>Неправильно</strong></td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">41</td>
+        <td width="55%" align="center"></td>
+        <td width="44%" align="center">Использовать слово "к сожалению" в следующих случаях:</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">42</td>
+        <td width="55%" align="center">"Сейчас существует проблема технического характера" </td>
+        <td width="44%" align="center">- при ГП: "к сожалению, сейчас существует проблема технического характера" </td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">43</td>
+        <td width="55%" align="center">"""Сроки еще уточняются""
+""Ориентировочные сроки в течении суток"" "</td>
+        <td width="44%" align="center">- когда нет точного срока ремонта: "к сожалению, сроки еще уточняются" </td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">44</td>
+        <td width="55%" align="center">"В телефонном режиме настройку роутера мы не проводим"</td>
+        <td rowspan="2" width="44%" align="center">- когда оператор говорит, что мы не настраиваем роутеры "к сожалению, роутеры в телефонном режиме мы не настраиваем" 
+</td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">45</td>
+        <td width="55%" align="center">Если это Днепр, предлагаем Фрегат Сервис. Если другой город, можно предложить выслать мастера для настройки роутера (крс). Дополнительно можно предложить сайт help.fregat.com. </td>
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">46</td>
+        <td width="55%" align="center">"Нет такой технической возможности" </td>
+        <td width="44%" align="center">- когда нет возможности отправить смс: "к сожалению, мы не можем отправлять смс"</td>
+    </tr>
+<tr>
+        <td width="1%" align="center">47</td>
+
+    </tr>
+
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">48</td>
+        <td bgcolor="#9fd690" width="55%" align="center"><strong>Как избежать фразы «Я больше ничем не могу Вам помочь»:</strong></td>
+        
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">49</td>
+        <td width="55%" align="center">- В сложившейся ситуации есть только один (несколько) вариантов решения… (повторить ранее предложенное)</td>
+        
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">50</td>
+        <td width="55%" align="center">- Эта ситуация имеет только одно решение. Я Вам предлагаю поступить таким образом, уверен(а) что Ваш вопрос будет быстро решен, и Вы останетесь довольны.</td>
+        
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">51</td>
+        <td width="55%" align="center">- На сегодняшний день это не представляется возможным. В Вашей ситуации мы предлагаем Вам поступить таким образом. Уверен(а), что Ваш вопрос будет быстро решен, и Вы останетесь довольны.</td>
+        
+    </tr>
+<tr>
+        <td bgcolor="#dff1da" width="1%" align="center">52</td>
+        <td width="55%" align="center">- Оставьте Ваш контактный номер телефона, и мы постараемся в самое ближайшее время выяснить информацию по Вашему вопросу и дать Вам обратную связь (В том случае если уточнить информацию быстро не является возможным.)</td>
+        
+    </tr>
+</table>
